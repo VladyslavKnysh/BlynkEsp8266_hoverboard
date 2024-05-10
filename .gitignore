@@ -1,0 +1,5 @@
+*.svg
+*.cfg
+*.json
+*.svd
+/EspSoftwareSerial
